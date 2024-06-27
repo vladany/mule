@@ -8,7 +8,7 @@ public class TestController {
 
     @GetMapping("/hello")
     public String hello() {
-        return "Hello, Dur, Mary, Maria, Flo, Inna, Soffel und Jessy, I hope you endjoy!";
+        return "Hello, Dur, Mary, Amina, Maria, Flo, Inna, Soffel und Jessy, I hope you endjoy!";
     }
 
 }
